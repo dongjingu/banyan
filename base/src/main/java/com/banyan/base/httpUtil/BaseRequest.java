@@ -20,7 +20,7 @@ import java.util.Map;
  */
 public class BaseRequest{
     public static final int INIT_DATA=0x10000; //初始化数据
-    public static final int REFRASH_DATA=0x10001; //刷新
+    public static final int REFRASH_DATA=0x10001; //刷新git branch --set-upstream-to origin
     public static final int LOAD_MORE_DATA=0x10002; //加载更多
     public static final int UPDATA_DATA=0x10003; //更新数据
     //接口
